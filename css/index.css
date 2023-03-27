@@ -1,0 +1,41 @@
+header {
+    height: 100px;
+    width: 300px;
+    background-image: url("../images/bannerskrot.jpg");
+    padding: 10px;
+    margin: 0;
+    background-size: cover;
+}
+
+h1 {
+    padding-left: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    padding: 30px;
+    background-image: url("../images/skrotbil.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.rubrik {
+    color: beige;
+}
+
+h4 {
+    color: bisque;
+}
+
+li {
+    color: aliceblue;
+}
+
+.navigation a {
+    color: aliceblue;
+}
+
+.navigation a:hover {
+    background-color: rgba(235, 166, 166, 0.5);
+}
