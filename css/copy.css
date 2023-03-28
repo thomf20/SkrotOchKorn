@@ -1,12 +1,12 @@
 h3{
-    color: aliceblue;
+    color: rgb(33, 35, 37);
 }
 img{
     width: 50px;
 }
 
 a{
-    color: aliceblue;
+    color: rgb(27, 28, 29);
 }
 a:hover{
     background-color: rgba(235, 166, 166, 0.5);

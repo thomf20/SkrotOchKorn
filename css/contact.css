@@ -1,0 +1,24 @@
+div {
+    padding: 30px;
+    background-image: url("../images/telefon.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+body {
+    padding: 30px;
+    background-image: url("../images/telefon.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+td {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(9, 5, 44);
+}
+a {
+    color: black;
+}
+a:hover {
+    background-color: rgba(235, 166, 166, 0.5);
+}

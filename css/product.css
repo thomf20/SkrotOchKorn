@@ -1,9 +1,5 @@
 div {
     padding: 30px;
-    background-image: url("../images/bilbild.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
 }
 body {
     padding: 30px;
